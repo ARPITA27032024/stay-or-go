@@ -1,4 +1,5 @@
 # stay-or-go
+## Employee Attrition Predictor
 This simple ML model predicts chances of an employee leaving the organization.
 
 * Dataset: IBM HR Analytics Attrition
